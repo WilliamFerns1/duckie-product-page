@@ -4,8 +4,9 @@
 ![HTML&CSS](https://img.shields.io/badge/HTML-CSS-blue)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design_Course-red)](https://freecodecamp.com/learn)
 
+![240503_19h53m10s_screenshot](https://github.com/WilliamFerns1/duckie-product-page/assets/141557971/ba517ad2-a432-4eb6-bba3-b3b679265ba1)
 
-A **product landing page** for a something nobody can hate, rubber rubber duckies.
+A **product landing page** for something nobody can hate, rubber duckies. Feel free to check out the rubber duckie product landing page by clicking <a href="https://duckie-product-page.vercel.app/" target="_blank">here</a>.
 
 ## Why love rubber duckies?
 1. Your pet dog likes them
